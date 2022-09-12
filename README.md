@@ -22,11 +22,12 @@ MATLAB Environment. BioNeCT was developed in version 2012A, and has not been yet
 
 ## Utilized Works
 Hubbard, R. J., Zadeh, I., Jones, A. P., Robert, B., Bryant, N. B., Clark, V. P., & Pilly, P. K. (2021). Brain connectivity alterations during sleep by closed-loop transcranial neurostimulation predict metamemory sensitivity. Network Neuroscience, 5(3), 734-756.
+
 Michelini, G., Jurgiel, J., Bakolis, I., Cheung, C. H., Asherson, P., Loo, S. K., ... & Mohammad-Rezazadeh, I. (2019). Atypical functional connectivity in adolescents and adults with persistent and remitted ADHD during a cognitive control task. Translational psychiatry, 9(1), 1-15.
+
 Coben, R., Mohammad-Rezazadeh, I., Frohlich, J., Jurgiel, J., & Michelini, G. (2017). Imaging brain connectivity in autism spectrum disorder. In Autism Imaging and Devices (pp. 261-302). CRC Press.
 
-
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/12466792/189766990-e4d0b249-127c-4e9e-960e-15fd4511db5e.png)" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/12466792/189766990-e4d0b249-127c-4e9e-960e-15fd4511db5e.png" width="300" height="250">	 <img src="https://user-images.githubusercontent.com/12466792/189767004-83db0942-4ece-4fbb-9776-a52f38e71819.png" width="300" height="250">
 
 ## Getting Started with BioNeCT
 To begin, type bionect in the Matlab command window. This will open the welcome page of the toolbox.
